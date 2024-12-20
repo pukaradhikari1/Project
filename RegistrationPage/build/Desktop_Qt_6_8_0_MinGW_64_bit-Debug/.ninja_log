@@ -1,0 +1,41 @@
+# ninja log v6
+84	362	7560665338635186	RegistrationPage_autogen/timestamp	6a4267b3d0d4318e
+84	362	7560665338635186	RegistrationPage_autogen/mocs_compilation.cpp	6a4267b3d0d4318e
+84	362	7560665338635186	C:/Users/Hp Victus/Desktop/qt practice/RegistrationPage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RegistrationPage_autogen/timestamp	6a4267b3d0d4318e
+366	4241	7560665341444665	CMakeFiles/RegistrationPage.dir/mainwindow.cpp.obj	6e23b45dc221f35f
+84	362	7560665338635186	C:/Users/Hp Victus/Desktop/qt practice/RegistrationPage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RegistrationPage_autogen/mocs_compilation.cpp	6a4267b3d0d4318e
+902	2953	7557166187246986	CMakeFiles/RegistrationPage.dir/RegistrationPage_autogen/mocs_compilation.cpp.obj	88496a53178d3654
+4323	5307	7560665381010669	RegistrationPage.exe	9b9b7ebbe6976c70
+911	2949	7557166187335507	CMakeFiles/RegistrationPage.dir/main.cpp.obj	6cd10e11e0e9785c
+370	4277	7560665341490189	CMakeFiles/RegistrationPage.dir/login.cpp.obj	fc6b748c9488a0d3
+378	4247	7560665341560170	CMakeFiles/RegistrationPage.dir/forgotpassword.cpp.obj	ace60ab6a9b537bd
+374	4323	7560665341525025	CMakeFiles/RegistrationPage.dir/signup.cpp.obj	22f378432c1ce36a
+25	147	7561066035226304	RegistrationPage_autogen/timestamp	6a4267b3d0d4318e
+25	147	7561066035226304	RegistrationPage_autogen/mocs_compilation.cpp	6a4267b3d0d4318e
+25	147	7561066035226304	C:/Users/Hp Victus/Desktop/qt practice/RegistrationPage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RegistrationPage_autogen/timestamp	6a4267b3d0d4318e
+25	147	7561066035226304	C:/Users/Hp Victus/Desktop/qt practice/RegistrationPage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RegistrationPage_autogen/mocs_compilation.cpp	6a4267b3d0d4318e
+148	1653	7561066036464145	CMakeFiles/RegistrationPage.dir/mainwindow.cpp.obj	6e23b45dc221f35f
+151	1658	7561066036484143	CMakeFiles/RegistrationPage.dir/login.cpp.obj	fc6b748c9488a0d3
+156	1675	7561066036544155	CMakeFiles/RegistrationPage.dir/forgotpassword.cpp.obj	ace60ab6a9b537bd
+153	1921	7561066036514145	CMakeFiles/RegistrationPage.dir/signup.cpp.obj	22f378432c1ce36a
+1921	2144	7561066054190174	RegistrationPage.exe	9b9b7ebbe6976c70
+83	1162	7561079258964980	RegistrationPage_autogen/timestamp	6a4267b3d0d4318e
+83	1162	7561079258964980	RegistrationPage_autogen/mocs_compilation.cpp	6a4267b3d0d4318e
+83	1162	7561079258964980	C:/Users/Hp Victus/Desktop/qt practice/RegistrationPage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RegistrationPage_autogen/timestamp	6a4267b3d0d4318e
+83	1162	7561079258964980	C:/Users/Hp Victus/Desktop/qt practice/RegistrationPage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RegistrationPage_autogen/mocs_compilation.cpp	6a4267b3d0d4318e
+1163	3464	7561079261066661	CMakeFiles/RegistrationPage.dir/RegistrationPage_autogen/mocs_compilation.cpp.obj	88496a53178d3654
+1167	3472	7561079261109039	CMakeFiles/RegistrationPage.dir/main.cpp.obj	6cd10e11e0e9785c
+1170	3522	7561079261133767	CMakeFiles/RegistrationPage.dir/mainwindow.cpp.obj	6e23b45dc221f35f
+1175	3588	7561079261193143	CMakeFiles/RegistrationPage.dir/login.cpp.obj	fc6b748c9488a0d3
+1188	3609	7561079261327112	CMakeFiles/RegistrationPage.dir/forgotpassword.cpp.obj	ace60ab6a9b537bd
+1182	3850	7561079261255542	CMakeFiles/RegistrationPage.dir/signup.cpp.obj	22f378432c1ce36a
+3850	4346	7561079287936937	RegistrationPage.exe	9b9b7ebbe6976c70
+87	388	7563245737114284	RegistrationPage_autogen/timestamp	6a4267b3d0d4318e
+87	388	7563245737114284	RegistrationPage_autogen/mocs_compilation.cpp	6a4267b3d0d4318e
+87	388	7563245737114284	C:/Users/Hp Victus/Desktop/qt practice/RegistrationPage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RegistrationPage_autogen/timestamp	6a4267b3d0d4318e
+87	388	7563245737114284	C:/Users/Hp Victus/Desktop/qt practice/RegistrationPage/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RegistrationPage_autogen/mocs_compilation.cpp	6a4267b3d0d4318e
+388	1847	7563245740117833	CMakeFiles/RegistrationPage.dir/mainwindow.cpp.obj	6e23b45dc221f35f
+397	1858	7563245740211130	CMakeFiles/RegistrationPage.dir/forgotpassword.cpp.obj	ace60ab6a9b537bd
+391	1864	7563245740149113	CMakeFiles/RegistrationPage.dir/login.cpp.obj	fc6b748c9488a0d3
+394	2150	7563245740170715	CMakeFiles/RegistrationPage.dir/signup.cpp.obj	22f378432c1ce36a
+2150	2801	7563245757738938	RegistrationPage.exe	9b9b7ebbe6976c70
